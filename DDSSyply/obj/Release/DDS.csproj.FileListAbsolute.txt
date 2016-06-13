@@ -1,0 +1,4 @@
+D:\ITSience\SMH\DDS\bin\Release\DDS.dll
+D:\ITSience\SMH\DDS\bin\Release\DDS.pdb
+D:\ITSience\SMH\DDS\obj\Release\DDS.dll
+D:\ITSience\SMH\DDS\obj\Release\DDS.pdb

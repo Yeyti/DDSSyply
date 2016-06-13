@@ -1,0 +1,5 @@
+D:\ITSience\SMH\DDS\bin\Debug\DDS.dll
+D:\ITSience\SMH\DDS\bin\Debug\DDS.pdb
+D:\ITSience\SMH\DDS\obj\Debug\DDS.csprojResolveAssemblyReference.cache
+D:\ITSience\SMH\DDS\obj\Debug\DDS.dll
+D:\ITSience\SMH\DDS\obj\Debug\DDS.pdb
