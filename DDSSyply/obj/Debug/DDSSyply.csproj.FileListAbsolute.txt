@@ -1,0 +1,4 @@
+D:\ITSience\Git\DDSSyply\DDSSyply\bin\Debug\DDSSyply.dll
+D:\ITSience\Git\DDSSyply\DDSSyply\bin\Debug\DDSSyply.pdb
+D:\ITSience\Git\DDSSyply\DDSSyply\obj\Debug\DDSSyply.dll
+D:\ITSience\Git\DDSSyply\DDSSyply\obj\Debug\DDSSyply.pdb
